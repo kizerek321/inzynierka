@@ -1,0 +1,6 @@
+[submodule "SAMPolyBuild"]
+	path = SAMPolyBuild
+	url = https://github.com/wchh-2000/SAMPolyBuild
+[submodule "Pix2Poly"]
+	path = Pix2Poly
+	url = https://github.com/yeshwanth95/Pix2Poly
