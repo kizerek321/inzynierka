@@ -1,0 +1,14 @@
+shared_data/
+**/segment_anything/*.pth
+**/*.pth
+**/*.ckpt
+**/dataset/
+**/runs/
+
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+.DS_Store
+Thumbs.db
